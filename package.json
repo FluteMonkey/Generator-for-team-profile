@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FluteMonkey/Generator-for-team-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FluteMonkey/Generator-for-team-profile/issues"
+  },
+  "homepage": "https://github.com/FluteMonkey/Generator-for-team-profile#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
