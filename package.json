@@ -22,5 +22,8 @@
   "homepage": "https://github.com/FluteMonkey/Generator-for-team-profile#readme",
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
   }
 }
