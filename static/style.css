@@ -3,8 +3,8 @@
 }
 
 :root {
-    --primary: lightslategray;
-    --secondary: white;
+    --primary: black;
+    --secondary: #FBF5E9;
 }
 
 body {
